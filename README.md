@@ -1,2 +1,3 @@
-# speech_recognition_wolof
-build wolof speech recognition system with deep learning
+# SOURCE CODE APPLICATION MOBILE REACT NATIVE ( COLLECTE AUDIO DATA )
+this mobile application collects audio data that can be automatically transferred to an address in the cloud, to an API, etc...
+I developed it to collect audio data, to then develop a voice recognition model.
